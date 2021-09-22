@@ -13,6 +13,7 @@ img {
     margin-left: 10%;
     margin-right: 10%;
     font-size: 18px;
+    color: #5d6436;
 }
 
 h1 {
@@ -21,6 +22,7 @@ h1 {
 
 h2.text {
     font-size: 36;
+    color: #4b5320;
 }
 
 ul.text, ol.text {
@@ -38,5 +40,5 @@ ul.text, ol.text {
 }
 
 body {
-    background-color: #f1efd4;
+    background-color: #f5f4e1;
 }
